@@ -2,31 +2,41 @@
 
 🎓 Electronics and Communication Engineering Student
 
-I'm an ECE student interested in exploring technology and developing practical projects. I enjoy learning new concepts in both software development and electronics.
+I'm an engineering student interested in technology, programming, and electronics. I enjoy learning new concepts and exploring different areas through practical projects.
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 - Java Programming
 - Python
 - SQL
 - Web Development
 - Embedded Systems
 
-### 🛠️ Technologies
+## 🛠️ Technical Skills
 - **Programming:** C, Java, Python
-- **Web:** HTML, CSS, JavaScript, PHP
+- **Web Technologies:** HTML, CSS, JavaScript, PHP
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code
 - **Core ECE:** Arduino, Verilog
 
-### 💻 Projects
-- **Smart Greenhouse Controller using AI** – An AI-based approach to greenhouse monitoring and control.
-- **Digital Decision-Support Platform for Oil Palm Farmers** – A digital platform focused on supporting farmers.
-- **Embedded Systems Projects** – Hands-on work with Arduino, sensors and electronic circuits.
+## 💻 Projects
+
+- **Smart Greenhouse Controller using AI** – Exploring AI-based greenhouse monitoring and control.
+- **Digital Decision-Support Platform for Oil Palm Farmers** – A digital solution focused on supporting farmers.
+- **Embedded Systems Projects** – Working with Arduino, sensors, and electronic circuits.
 - **Time-Based OTP Authentication System** – Exploring time-based authentication using Verilog.
 
-### 🎯 My Goal
-To continuously improve my technical skills, gain practical experience, and build useful solutions in both Core ECE and IT domains.
+## 🎯 My Interests
+- Software Development
+- Artificial Intelligence
+- Embedded Systems
+- Digital Electronics
+- Problem Solving
 
-### 📫 Connect With Me
-- GitHub: [poovizhi-code](https://github.com/poovizhi-code)
-- LinkedIn: [Poovizhi P](https://www.linkedin.com/in/poovizhi-p-7aaa62379/)
+## 🚀 My Goal
+
+To improve my technical knowledge, gain practical experience, and build useful projects in both Core Electronics and IT.
+
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/poovizhi-code
+- **LinkedIn:** https://www.linkedin.com/in/poovizhi-p-7aaa62379/
